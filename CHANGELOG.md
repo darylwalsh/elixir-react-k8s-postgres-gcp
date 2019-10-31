@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/darylwalsh/elixir-react-k8s-postgres-gcp/compare/v0.1.1...v0.1.2) (2019-10-31)
+
+
+### Bug Fixes
+
+* **conventional-github-releaser update:** updt conventional-github-rlsr ([8893622](https://github.com/darylwalsh/elixir-react-k8s-postgres-gcp/commit/889362237c909f68fda87ff868ffc4c2ec481100))
+
 ### 0.1.1 (2019-10-31)
 
 
