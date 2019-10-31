@@ -1,6 +1,6 @@
 {
   "name": "hooroosh",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "elixir react k8s psql gcp",
   "main": "index.js",
   "directories": {
