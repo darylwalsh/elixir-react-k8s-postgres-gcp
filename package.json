@@ -44,7 +44,7 @@
     "rimraf": "^3.0.0",
     "standard-version": "^7.0.0"
   },
-  "repository": "git@github.com/darylwalsh/elixir-react-k8s-postgres-gcp.git",
+  "repository": "git@github.com/daryl-walsh/elixir-react-k8s-postgres-gcp.git",
   "engines": {
     "node": "10.16.3",
     "npm": "6.12.0"
