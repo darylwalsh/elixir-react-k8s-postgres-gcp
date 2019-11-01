@@ -4,7 +4,16 @@ defmodule Hooroosh.MixProject do
   def project do
     [
       app: :hooroosh,
-      version: "0.1.0",
+      releases: [
+        hooroosh: [
+          include_erts: true,
+          include_executables_for: [:unix],
+          applications: [
+            runtime_tools: :permanent
+          ]
+        ]
+      ],
+      version: "0.1.1",
       elixir: "~> 1.5",
       elixirc_paths: elixirc_paths(Mix.env()),
       compilers: [:phoenix, :gettext] ++ Mix.compilers(),

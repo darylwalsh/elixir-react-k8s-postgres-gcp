@@ -1,0 +1,17 @@
+/_build/
+/assets/node_modules/
+/deps/
+/doc/
+/priv/static/
+/test/
+/tmp/
+.secretkey.txt
+.editorconfig
+.eslintignore
+.gitignore
+.prettierignore
+.prettierrc
+.tern-project
+CHANGELOG.md 
+commitlint.config.js
+README.md 
