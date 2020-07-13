@@ -42,7 +42,7 @@
     "prettier": "^1.18.2",
     "randomstring": "^1.1.5",
     "rimraf": "^3.0.0",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "repository": "git@github.com/daryl-walsh/elixir-react-k8s-postgres-gcp.git",
   "engines": {
